@@ -3,6 +3,7 @@ const book = document.querySelector("#book");
 const revealedCount = document.querySelector("#revealedCount");
 const totalCount = document.querySelector("#totalCount");
 const visibleCount = document.querySelector("#visibleCount");
+const renderedCount = document.querySelector("#renderedCount");
 const searchInput = document.querySelector("#searchInput");
 const categoryFilter = document.querySelector("#categoryFilter");
 const loadMoreButton = document.querySelector("#loadMore");
@@ -46,7 +47,12 @@ function render() {
   const currentItems = filteredItems();
   const renderedItems = currentItems.slice(0, renderLimit);
   visibleCount.textContent = String(currentItems.length);
+  renderedCount.textContent = String(renderedItems.length);
   loadMoreButton.hidden = renderedItems.length >= currentItems.length;
+  if (!loadMoreButton.hidden) {
+    const remaining = currentItems.length - renderedItems.length;
+    loadMoreButton.textContent = `さらに${Math.min(24, remaining)}件表示`;
+  }
 
   book.innerHTML = renderedItems.map((item) => {
     const isOpen = openIds.has(item.id);
