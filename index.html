@@ -22,13 +22,30 @@
     <main>
       <section class="intro" aria-labelledby="intro-title">
         <h2 id="intro-title">見たことはある。でも、値段は知らない。</h2>
-        <p>過去に出た定番ネタを外し、街・店舗・厨房・物流・公共空間に散らして選んだ12点です。</p>
+        <p>過去に出た定番ネタを外し、街・店舗・厨房・物流・清掃・医療福祉・イベント・防災に散らして選んだ100点です。</p>
         <div class="meter" aria-live="polite">
-          <span id="revealedCount">0</span><span>/12 revealed</span>
+          <span id="revealedCount">0</span><span>/<span id="totalCount">100</span> revealed</span>
         </div>
       </section>
 
+      <section class="controls" aria-label="絞り込み">
+        <label>
+          <span>検索</span>
+          <input id="searchInput" type="search" autocomplete="off" placeholder="例: 清掃、カート、発電機">
+        </label>
+        <label>
+          <span>ジャンル</span>
+          <select id="categoryFilter">
+            <option value="">すべて</option>
+          </select>
+        </label>
+        <p class="visible-count"><span id="visibleCount">100</span>件表示</p>
+      </section>
+
       <section id="book" class="book" aria-label="写真集"></section>
+      <div class="load-more-wrap">
+        <button type="button" id="loadMore">さらに表示</button>
+      </div>
     </main>
 
     <footer>
@@ -36,6 +53,6 @@
       <a href="./research/sources.md">価格・写真ソース</a>
     </footer>
 
-    <script src="./script.js"></script>
+    <script type="module" src="./script.js"></script>
   </body>
 </html>
