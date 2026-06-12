@@ -1,5 +1,4 @@
-import { items } from "./data/items.js";
-
+const items = window.priceQuizItems ?? [];
 const book = document.querySelector("#book");
 const revealedCount = document.querySelector("#revealedCount");
 const totalCount = document.querySelector("#totalCount");

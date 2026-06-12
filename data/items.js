@@ -1,4 +1,4 @@
-export const items = [
+window.priceQuizItems = [
   {
     "id": "001",
     "title": "道路のカーブミラー",

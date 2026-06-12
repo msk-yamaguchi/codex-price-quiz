@@ -4,6 +4,10 @@
 
 ## ローカル確認
 
+`index.html` を直接ブラウザで開けます。
+
+ローカルサーバーで確認する場合:
+
 ```sh
 python3 -m http.server 4173
 ```
@@ -18,7 +22,7 @@ python3 -m http.server 4173
 - Branch: `main` または公開したいブランチ
 - Folder: `/ (root)`
 
-`index.html`、`styles.css`、`script.js`、`data/items.js` はすべて相対パスで参照しています。`.nojekyll` を置いているため、GitHub Pages上でもそのまま静的ファイルとして配信されます。
+`index.html`、`styles.css`、`script.js`、`data/items.js` はすべて相対パスで参照しています。`data/items.js` は通常のscriptとして読み込むため、GitHub Pagesだけでなく、`index.html` を直接開いた場合も動きます。`.nojekyll` を置いているため、GitHub Pages上でもそのまま静的ファイルとして配信されます。
 
 ## データ再生成
 

@@ -274,7 +274,7 @@ async function main() {
     await sleep(80);
   }
 
-  const dataFile = `export const items = ${JSON.stringify(items, null, 2)};\n`;
+  const dataFile = `window.priceQuizItems = ${JSON.stringify(items, null, 2)};\n`;
   await writeFile("data/items.js", dataFile);
 
   const rows = items.map((item) => (
