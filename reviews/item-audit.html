@@ -1,0 +1,224 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>価格写真集 監査用一覧</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      background: #f6f5f0;
+      color: #1c1c1c;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 2;
+      display: flex;
+      gap: 24px;
+      align-items: baseline;
+      justify-content: space-between;
+      padding: 14px 20px;
+      border-bottom: 1px solid #d9d7cf;
+      background: rgba(246, 245, 240, 0.96);
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 20px;
+    }
+
+    .summary {
+      margin: 0;
+      color: #666;
+      font-size: 13px;
+      font-weight: 700;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(5, minmax(0, 1fr));
+      gap: 12px;
+      padding: 16px;
+    }
+
+    article {
+      min-width: 0;
+      overflow: hidden;
+      border: 1px solid #d7d4ca;
+      border-radius: 8px;
+      background: white;
+    }
+
+    .photo {
+      position: relative;
+      display: grid;
+      place-items: center;
+      aspect-ratio: 4 / 3;
+      background: #ece9df;
+    }
+
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+      display: block;
+    }
+
+    .num,
+    .badge {
+      position: absolute;
+      top: 8px;
+      border-radius: 999px;
+      padding: 4px 7px;
+      background: rgba(28, 28, 28, 0.78);
+      color: white;
+      font-size: 12px;
+      font-weight: 800;
+      line-height: 1;
+    }
+
+    .num {
+      left: 8px;
+    }
+
+    .badge {
+      right: 8px;
+      background: #0f766e;
+    }
+
+    .badge.warn {
+      background: #b45309;
+    }
+
+    .body {
+      display: grid;
+      gap: 6px;
+      padding: 10px;
+    }
+
+    h2 {
+      margin: 0;
+      font-size: 15px;
+      line-height: 1.35;
+    }
+
+    p {
+      margin: 0;
+      font-size: 12px;
+      line-height: 1.45;
+    }
+
+    .price {
+      color: #0f766e;
+      font-size: 14px;
+      font-weight: 900;
+    }
+
+    .why {
+      color: #555;
+    }
+
+    .links {
+      display: flex;
+      gap: 10px;
+      font-size: 12px;
+      font-weight: 800;
+    }
+
+    a {
+      color: #2563eb;
+    }
+
+    @media (max-width: 1200px) {
+      .grid {
+        grid-template-columns: repeat(4, minmax(0, 1fr));
+      }
+    }
+
+    @media (max-width: 860px) {
+      .grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>価格写真集 監査用一覧</h1>
+    <p class="summary" id="summary">読み込み中</p>
+  </header>
+
+  <main class="grid" id="grid"></main>
+
+  <script src="../data/items.js"></script>
+  <script>
+    const items = window.priceQuizItems ?? [];
+    const grid = document.querySelector("#grid");
+    const summary = document.querySelector("#summary");
+    const imageCounts = items.reduce((counts, item) => {
+      counts[item.image] = (counts[item.image] ?? 0) + 1;
+      return counts;
+    }, {});
+
+    grid.innerHTML = items.map((item) => {
+      const duplicate = imageCounts[item.image] > 1;
+      return `
+        <article data-id="${escapeAttribute(item.id)}">
+          <div class="photo">
+            <img src="${escapeAttribute(item.image)}" alt="${escapeAttribute(item.title)}" loading="eager" decoding="async">
+            <span class="num">${escapeHTML(item.id)}</span>
+            <span class="badge ${duplicate ? "warn" : ""}">${duplicate ? "重複" : "画像"}</span>
+          </div>
+          <div class="body">
+            <h2>${escapeHTML(item.title)}</h2>
+            <p class="price">${escapeHTML(item.price)}</p>
+            <p>${escapeHTML(item.hint)}</p>
+            <p class="why">${escapeHTML(item.why)}</p>
+            <div class="links">
+              <a href="${escapeAttribute(item.source)}" target="_blank" rel="noreferrer">価格根拠</a>
+              <a href="${escapeAttribute(item.imagePage)}" target="_blank" rel="noreferrer">写真元</a>
+            </div>
+          </div>
+        </article>
+      `;
+    }).join("");
+
+    const updateSummary = () => {
+      const images = [...document.querySelectorAll("img")];
+      const loaded = images.filter((image) => image.complete && image.naturalWidth > 0).length;
+      const broken = images.filter((image) => image.complete && image.naturalWidth === 0).length;
+      const duplicateGroups = Object.values(imageCounts).filter((count) => count > 1).length;
+      summary.textContent = `${items.length}件 / 画像読込 ${loaded}件 / 画像NG ${broken}件 / 重複画像グループ ${duplicateGroups}件`;
+    };
+
+    document.querySelectorAll("img").forEach((image) => {
+      image.addEventListener("load", updateSummary);
+      image.addEventListener("error", () => {
+        image.closest("article").style.outline = "3px solid #dc2626";
+        updateSummary();
+      });
+    });
+    updateSummary();
+
+    function escapeHTML(value) {
+      return String(value)
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;")
+        .replaceAll("'", "&#039;");
+    }
+
+    function escapeAttribute(value) {
+      return escapeHTML(value).replaceAll("`", "&#096;");
+    }
+  </script>
+</body>
+</html>

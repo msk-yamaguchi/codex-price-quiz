@@ -9,7 +9,7 @@ window.priceQuizItems = [
     "why": "道路反射鏡として使う一面鏡は本体だけで数万円台。支柱や設置工事は別です。",
     "source": "https://www.monotaro.com/s/q-%E3%82%AB%E3%83%BC%E3%83%96%E3%83%9F%E3%83%A9%E3%83%BC/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono23549663-161104-06.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono22437652-160314-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E3%82%AB%E3%83%BC%E3%83%96%E3%83%9F%E3%83%A9%E3%83%BC/",
     "imageTitle": "MonotaRO product image: 道路のカーブミラー",
     "imageCredit": "MonotaRO search result"
@@ -24,7 +24,7 @@ window.priceQuizItems = [
     "why": "歩道用や車両荷重対応の鋳鉄カバーは、仕様によって数万円規模になります。",
     "source": "https://www.monotaro.com/s/q-%E3%83%9E%E3%83%B3%E3%83%9B%E3%83%BC%E3%83%AB%20%E8%93%8B/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono37902541-221219-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono68864994-170824-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E3%83%9E%E3%83%B3%E3%83%9B%E3%83%BC%E3%83%AB%20%E8%93%8B/",
     "imageTitle": "MonotaRO product image: マンホール蓋",
     "imageCredit": "MonotaRO search result"
@@ -39,7 +39,7 @@ window.priceQuizItems = [
     "why": "ステンレス製や反射材付きなど、屋外で長く使う仕様ほど高くなります。",
     "source": "https://www.monotaro.com/s/q-%E8%BB%8A%E6%AD%A2%E3%82%81%20%E3%83%9D%E3%83%BC%E3%83%AB/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono68538391-130919-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono89563284-140206-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E8%BB%8A%E6%AD%A2%E3%82%81%20%E3%83%9D%E3%83%BC%E3%83%AB/",
     "imageTitle": "MonotaRO product image: 車止めポール",
     "imageCredit": "MonotaRO search result"
@@ -54,7 +54,7 @@ window.priceQuizItems = [
     "why": "1個単位では安めですが、道路には大量に使われるため総額は積み上がります。",
     "source": "https://www.monotaro.com/s/q-%E9%81%93%E8%B7%AF%20%E5%8F%8D%E5%B0%84%E9%8B%B2/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono50321406-130205-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono49047826-170526-04.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E9%81%93%E8%B7%AF%20%E5%8F%8D%E5%B0%84%E9%8B%B2/",
     "imageTitle": "MonotaRO product image: 道路反射鋲",
     "imageCredit": "MonotaRO search result"
@@ -69,7 +69,7 @@ window.priceQuizItems = [
     "why": "樹脂やコンクリート製の本体価格で、アンカーや施工は別です。",
     "source": "https://www.monotaro.com/s/q-%E9%A7%90%E8%BB%8A%E5%A0%B4%20%E8%BC%AA%E6%AD%A2%E3%82%81/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono09389012-230327-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono65968498-170705-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E9%A7%90%E8%BB%8A%E5%A0%B4%20%E8%BC%AA%E6%AD%A2%E3%82%81/",
     "imageTitle": "MonotaRO product image: 駐車場の輪止め",
     "imageCredit": "MonotaRO search result"
@@ -84,7 +84,7 @@ window.priceQuizItems = [
     "why": "踏まれても戻る柔軟素材と反射材があり、単なるカラーコーンより高めです。",
     "source": "https://www.monotaro.com/s/q-%E3%83%9D%E3%83%BC%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%B3/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono46364696-250702-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono39924439-190509-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E3%83%9D%E3%83%BC%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%B3/",
     "imageTitle": "MonotaRO product image: ポールコーン",
     "imageCredit": "MonotaRO search result"
@@ -99,7 +99,7 @@ window.priceQuizItems = [
     "why": "単体は安い一方、現場ではバーや重りと組み合わせて大量に使われます。",
     "source": "https://www.monotaro.com/s/q-%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%B3/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono03340477-041112-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono69326206-171002-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%B3/",
     "imageTitle": "MonotaRO product image: カラーコーン",
     "imageCredit": "MonotaRO search result"
@@ -114,7 +114,7 @@ window.priceQuizItems = [
     "why": "軽量でも屋外で倒れにくく、視認性の高い樹脂部品を持つため数千円規模です。",
     "source": "https://www.monotaro.com/s/q-%E5%8D%98%E7%AE%A1%20%E3%83%90%E3%83%AA%E3%82%B1%E3%83%BC%E3%83%89/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono25956289-200605-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono20769778-260514-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E5%8D%98%E7%AE%A1%20%E3%83%90%E3%83%AA%E3%82%B1%E3%83%BC%E3%83%89/",
     "imageTitle": "MonotaRO product image: 単管バリケード",
     "imageCredit": "MonotaRO search result"
@@ -129,7 +129,7 @@ window.priceQuizItems = [
     "why": "1枚では数千円台でも、現場全体では何十枚も必要になります。",
     "source": "https://www.monotaro.com/s/q-%E4%BB%AE%E8%A8%AD%20%E3%83%95%E3%82%A7%E3%83%B3%E3%82%B9/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono45080605-190718-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono18457548-241125-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E4%BB%AE%E8%A8%AD%20%E3%83%95%E3%82%A7%E3%83%B3%E3%82%B9/",
     "imageTitle": "MonotaRO product image: 仮設フェンス",
     "imageCredit": "MonotaRO search result"
@@ -144,7 +144,7 @@ window.priceQuizItems = [
     "why": "反射シート、鉄枠、折りたたみ脚などを備えた現場用品です。",
     "source": "https://www.monotaro.com/s/q-%E5%B7%A5%E4%BA%8B%20%E7%9C%8B%E6%9D%BF/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono00240406-140529-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono39245482-120215-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E5%B7%A5%E4%BA%8B%20%E7%9C%8B%E6%9D%BF/",
     "imageTitle": "MonotaRO product image: 工事看板",
     "imageCredit": "MonotaRO search result"
@@ -159,7 +159,7 @@ window.priceQuizItems = [
     "why": "LED、電池、雨天対応、視認性のための筒構造で価格差があります。",
     "source": "https://www.monotaro.com/s/q-%E4%BA%A4%E9%80%9A%E8%AA%98%E5%B0%8E%E7%81%AF/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono52664685-200116-04.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono37959223-201224-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E4%BA%A4%E9%80%9A%E8%AA%98%E5%B0%8E%E7%81%AF/",
     "imageTitle": "MonotaRO product image: 交通誘導灯",
     "imageCredit": "MonotaRO search result"
@@ -174,7 +174,7 @@ window.priceQuizItems = [
     "why": "屋外で視認できるLED、バッテリー、反射材、折りたたみ構造が必要です。",
     "source": "https://www.monotaro.com/s/q-%E7%9F%A2%E5%8D%B0%E6%9D%BF%20LED/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono71384696-171116-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono81957173-180402-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E7%9F%A2%E5%8D%B0%E6%9D%BF%20LED/",
     "imageTitle": "MonotaRO product image: 道路工事用LED矢印板",
     "imageCredit": "MonotaRO search result"
@@ -189,7 +189,7 @@ window.priceQuizItems = [
     "why": "太陽電池とバッテリーを持つため、電源不要の小型機でも数万円になることがあります。",
     "source": "https://www.monotaro.com/s/q-%E3%82%BD%E3%83%BC%E3%83%A9%E3%83%BC%20%E5%9B%9E%E8%BB%A2%E7%81%AF/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono29503470-230629-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono38633463-241115-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E3%82%BD%E3%83%BC%E3%83%A9%E3%83%BC%20%E5%9B%9E%E8%BB%A2%E7%81%AF/",
     "imageTitle": "MonotaRO product image: ソーラー回転灯",
     "imageCredit": "MonotaRO search result"
@@ -204,7 +204,7 @@ window.priceQuizItems = [
     "why": "防水性、明るさ、スタンドの有無で家庭用ライトとは価格が変わります。",
     "source": "https://www.monotaro.com/s/q-%E6%8A%95%E5%85%89%E5%99%A8%20LED/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono00556407-260324-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono65106476-210518-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E6%8A%95%E5%85%89%E5%99%A8%20LED/",
     "imageTitle": "MonotaRO product image: 工事用投光器",
     "imageCredit": "MonotaRO search result"
@@ -219,7 +219,7 @@ window.priceQuizItems = [
     "why": "雨風に耐えるアルミ枠、鍵、ガラス扉が付くと家具より設備に近い価格になります。",
     "source": "https://www.monotaro.com/s/q-%E5%B1%8B%E5%A4%96%20%E6%8E%B2%E7%A4%BA%E6%9D%BF/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono37109843-140310-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono49031647-140310-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E5%B1%8B%E5%A4%96%20%E6%8E%B2%E7%A4%BA%E6%9D%BF/",
     "imageTitle": "MonotaRO product image: 屋外掲示板",
     "imageCredit": "MonotaRO search result"
@@ -234,7 +234,7 @@ window.priceQuizItems = [
     "why": "再生樹脂や鋳物脚など、雨ざらしで長く使える素材になると高くなります。",
     "source": "https://www.monotaro.com/s/q-%E5%85%AC%E5%9C%92%20%E3%83%99%E3%83%B3%E3%83%81/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono06780436-150508-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono46511597-190807-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E5%85%AC%E5%9C%92%20%E3%83%99%E3%83%B3%E3%83%81/",
     "imageTitle": "MonotaRO product image: 公共施設・公園のベンチ",
     "imageCredit": "MonotaRO search result"
@@ -249,7 +249,7 @@ window.priceQuizItems = [
     "why": "重いベースと巻き取り機構があり、倒れにくさが価格に出ます。",
     "source": "https://www.monotaro.com/s/q-%E3%83%99%E3%83%AB%E3%83%88%E3%83%91%E3%83%BC%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono20980166-240305-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono19705325-250501-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E3%83%99%E3%83%AB%E3%83%88%E3%83%91%E3%83%BC%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/",
     "imageTitle": "MonotaRO product image: ベルトパーテーション",
     "imageCredit": "MonotaRO search result"
@@ -264,7 +264,7 @@ window.priceQuizItems = [
     "why": "袋を一枚ずつ出す機構と安定した金属筐体が必要な業務用備品です。",
     "source": "https://www.monotaro.com/s/q-%E5%82%98%E8%A2%8B%20%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono08427554-210315-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono88130734-140109-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E5%82%98%E8%A2%8B%20%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89/",
     "imageTitle": "MonotaRO product image: 傘袋スタンド",
     "imageCredit": "MonotaRO search result"
@@ -277,10 +277,10 @@ window.priceQuizItems = [
     "hint": "スーパーで買い物中に押す店舗備品です。",
     "price": "約1.5万〜3万円",
     "why": "静音キャスター、子ども用座席、安全設計が入り、家庭用カートより高めです。",
-    "source": "https://www.monotaro.com/s/q-%E8%B2%B7%E3%81%84%E7%89%A9%E3%82%AB%E3%83%BC%E3%83%88/",
+    "source": "https://www.monotaro.com/s/q-%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%AB%E3%83%BC%E3%83%88%20%E5%BA%97%E8%88%97%E7%94%A8/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono53118005-200221-02.jpg",
-    "imagePage": "https://www.monotaro.com/s/q-%E8%B2%B7%E3%81%84%E7%89%A9%E3%82%AB%E3%83%BC%E3%83%88/",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono07583931-220928-02.jpg",
+    "imagePage": "https://www.monotaro.com/s/q-%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%AB%E3%83%BC%E3%83%88%20%E5%BA%97%E8%88%97%E7%94%A8/",
     "imageTitle": "MonotaRO product image: スーパーのショッピングカート",
     "imageCredit": "MonotaRO search result"
   },
@@ -294,7 +294,7 @@ window.priceQuizItems = [
     "why": "単体は安いですが、店舗では色分けして大量にそろえる備品です。",
     "source": "https://www.monotaro.com/s/q-%E8%B2%B7%E3%81%84%E7%89%A9%E3%81%8B%E3%81%94/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono39266265-190226-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono38422869-190402-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E8%B2%B7%E3%81%84%E7%89%A9%E3%81%8B%E3%81%94/",
     "imageTitle": "MonotaRO product image: 買い物かご",
     "imageCredit": "MonotaRO search result"
@@ -309,7 +309,7 @@ window.priceQuizItems = [
     "why": "大きな金属フレームとキャスターを備え、折りたたみ式でも数万円します。",
     "source": "https://www.monotaro.com/s/q-%E3%82%AB%E3%82%B4%E5%8F%B0%E8%BB%8A/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono08417981-260415-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono44692070-240110-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E3%82%AB%E3%82%B4%E5%8F%B0%E8%BB%8A/",
     "imageTitle": "MonotaRO product image: カゴ台車",
     "imageCredit": "MonotaRO search result"
@@ -324,7 +324,7 @@ window.priceQuizItems = [
     "why": "金銭管理、レシート印字、部門登録などの機能で事務機器としての価格になります。",
     "source": "https://www.monotaro.com/s/q-%E3%83%AC%E3%82%B8%E3%82%B9%E3%82%BF%E3%83%BC/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono19785298-151106-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono25911708-180724-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E3%83%AC%E3%82%B8%E3%82%B9%E3%82%BF%E3%83%BC/",
     "imageTitle": "MonotaRO product image: レジスター",
     "imageCredit": "MonotaRO search result"
@@ -339,7 +339,7 @@ window.priceQuizItems = [
     "why": "読み取り方式、耐落下性、無線対応の有無で価格差が大きくなります。",
     "source": "https://www.monotaro.com/s/q-%E3%83%90%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%89%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono53828313-200622-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono53828313-200622-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E3%83%90%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%89%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC/",
     "imageTitle": "MonotaRO product image: バーコードリーダー",
     "imageCredit": "MonotaRO search result"
@@ -354,7 +354,7 @@ window.priceQuizItems = [
     "why": "鍵、仕切り、レジ連動の開閉機構があるため、ただの引き出しより高めです。",
     "source": "https://www.monotaro.com/s/q-%E3%82%AD%E3%83%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%83%89%E3%83%AD%E3%82%A2/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono62901676-170608-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono25911769-180724-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E3%82%AD%E3%83%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%83%89%E3%83%AD%E3%82%A2/",
     "imageTitle": "MonotaRO product image: キャッシュドロア",
     "imageCredit": "MonotaRO search result"
@@ -369,7 +369,7 @@ window.priceQuizItems = [
     "why": "感熱紙を高速で出す機構とPOS連携が必要な店舗機器です。",
     "source": "https://www.monotaro.com/s/q-%E3%83%AC%E3%82%B7%E3%83%BC%E3%83%88%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono66404487-240624-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono58110466-210315-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E3%83%AC%E3%82%B7%E3%83%BC%E3%83%88%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC/",
     "imageTitle": "MonotaRO product image: レシートプリンター",
     "imageCredit": "MonotaRO search result"
@@ -382,10 +382,10 @@ window.priceQuizItems = [
     "hint": "商業施設や受付で案内動画を流す縦型ディスプレイです。",
     "price": "約20万〜40万円",
     "why": "表示機、スタンド、再生機能をまとめた業務設置向け機器です。",
-    "source": "https://www.monotaro.com/s/q-%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%8D%E3%83%BC%E3%82%B8%20%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89/",
+    "source": "https://www.monotaro.com/s/q-%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%8D%E3%83%BC%E3%82%B8%20%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono05348835-241011-02.jpg",
-    "imagePage": "https://www.monotaro.com/s/q-%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%8D%E3%83%BC%E3%82%B8%20%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89/",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono05348878-241011-02.jpg",
+    "imagePage": "https://www.monotaro.com/s/q-%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%8D%E3%83%BC%E3%82%B8%20%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/",
     "imageTitle": "MonotaRO product image: スタンド付きデジタルサイネージ",
     "imageCredit": "MonotaRO search result"
   },
@@ -399,7 +399,7 @@ window.priceQuizItems = [
     "why": "全身型や可動型は造形と耐久性が必要で、数万円以上になります。",
     "source": "https://www.monotaro.com/s/q-%E3%83%9E%E3%83%8D%E3%82%AD%E3%83%B3/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono31834198-181119-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono74252002-180412-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E3%83%9E%E3%83%8D%E3%82%AD%E3%83%B3/",
     "imageTitle": "MonotaRO product image: マネキン",
     "imageCredit": "MonotaRO search result"
@@ -414,7 +414,7 @@ window.priceQuizItems = [
     "why": "重い衣類を載せてもたわまないフレームとキャスターが価格の中心です。",
     "source": "https://www.monotaro.com/s/q-%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%A9%E3%83%83%E3%82%AF%20%E6%A5%AD%E5%8B%99%E7%94%A8/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono25531915-180702-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono25532064-200124-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%A9%E3%83%83%E3%82%AF%20%E6%A5%AD%E5%8B%99%E7%94%A8/",
     "imageTitle": "MonotaRO product image: 業務用ハンガーラック",
     "imageCredit": "MonotaRO search result"
@@ -429,7 +429,7 @@ window.priceQuizItems = [
     "why": "安価ですが、店舗では旗とポールを含めて複数本設置します。",
     "source": "https://www.monotaro.com/s/q-%E3%81%AE%E3%81%BC%E3%82%8A%20%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono62330949-210322-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono65968516-170705-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E3%81%AE%E3%81%BC%E3%82%8A%20%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89/",
     "imageTitle": "MonotaRO product image: のぼり旗スタンド",
     "imageCredit": "MonotaRO search result"
@@ -444,7 +444,7 @@ window.priceQuizItems = [
     "why": "軽量でも視野角と歪みの少なさが必要で、店舗備品として数千円からです。",
     "source": "https://www.monotaro.com/s/q-%E9%98%B2%E7%8A%AF%E3%83%9F%E3%83%A9%E3%83%BC%20%E5%BA%97%E8%88%97/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono62132245-201029-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono12794199-230407-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E9%98%B2%E7%8A%AF%E3%83%9F%E3%83%A9%E3%83%BC%20%E5%BA%97%E8%88%97/",
     "imageTitle": "MonotaRO product image: 店舗用防犯ミラー",
     "imageCredit": "MonotaRO search result"
@@ -459,7 +459,7 @@ window.priceQuizItems = [
     "why": "小型でも給排水と冷却機構を備え、日産能力や貯氷量が増えるほど上がります。",
     "source": "https://www.monotaro.com/s/q-%E6%A5%AD%E5%8B%99%E7%94%A8%20%E8%A3%BD%E6%B0%B7%E6%A9%9F/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono43078517-190606-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono25241565-230419-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E6%A5%AD%E5%8B%99%E7%94%A8%20%E8%A3%BD%E6%B0%B7%E6%A9%9F/",
     "imageTitle": "MonotaRO product image: 業務用製氷機",
     "imageCredit": "MonotaRO search result"
@@ -474,7 +474,7 @@ window.priceQuizItems = [
     "why": "真空ポンプと密封ヒーターを備え、家庭用シーラーとは桁が変わります。",
     "source": "https://www.monotaro.com/s/q-%E7%9C%9F%E7%A9%BA%E5%8C%85%E8%A3%85%E6%A9%9F%20%E5%8D%93%E4%B8%8A/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono37064955-140806-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono40382526-120424-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E7%9C%9F%E7%A9%BA%E5%8C%85%E8%A3%85%E6%A9%9F%20%E5%8D%93%E4%B8%8A/",
     "imageTitle": "MonotaRO product image: 卓上真空包装機",
     "imageCredit": "MonotaRO search result"
@@ -489,7 +489,7 @@ window.priceQuizItems = [
     "why": "容量、保温性能、ガス式か電気式かで価格が変わります。",
     "source": "https://www.monotaro.com/s/q-%E6%A5%AD%E5%8B%99%E7%94%A8%20%E7%82%8A%E9%A3%AF%E5%99%A8/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono60817417-170710-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono88818791-230228-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E6%A5%AD%E5%8B%99%E7%94%A8%20%E7%82%8A%E9%A3%AF%E5%99%A8/",
     "imageTitle": "MonotaRO product image: 業務用炊飯器",
     "imageCredit": "MonotaRO search result"
@@ -504,7 +504,7 @@ window.priceQuizItems = [
     "why": "油槽、温度制御、安全装置、容量が価格を左右します。",
     "source": "https://www.monotaro.com/s/q-%E9%9B%BB%E6%B0%97%E3%83%95%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%20%E6%A5%AD%E5%8B%99%E7%94%A8/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono65398044-210601-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono06844258-150501-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E9%9B%BB%E6%B0%97%E3%83%95%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%20%E6%A5%AD%E5%8B%99%E7%94%A8/",
     "imageTitle": "MonotaRO product image: 電気フライヤー",
     "imageCredit": "MonotaRO search result"
@@ -519,7 +519,7 @@ window.priceQuizItems = [
     "why": "保温ヒーターと透明ケース、棚構造があり、サイズで大きく変わります。",
     "source": "https://www.monotaro.com/s/q-%E3%83%9B%E3%83%83%E3%83%88%E3%82%B7%E3%83%A7%E3%83%BC%E3%82%B1%E3%83%BC%E3%82%B9/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono28743674-230601-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono41918678-190527-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E3%83%9B%E3%83%83%E3%83%88%E3%82%B7%E3%83%A7%E3%83%BC%E3%82%B1%E3%83%BC%E3%82%B9/",
     "imageTitle": "MonotaRO product image: ホットショーケース",
     "imageCredit": "MonotaRO search result"
@@ -534,7 +534,7 @@ window.priceQuizItems = [
     "why": "温度を一定に保つヒーターとステンレス容器が価格の中心です。",
     "source": "https://www.monotaro.com/s/q-%E3%83%95%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%BC/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono13420516-251010-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono88833832-140318-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E3%83%95%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%BC/",
     "imageTitle": "MonotaRO product image: フードウォーマー",
     "imageCredit": "MonotaRO search result"
@@ -549,7 +549,7 @@ window.priceQuizItems = [
     "why": "小型でも温度調整と保温容器があり、業務用は連続使用前提です。",
     "source": "https://www.monotaro.com/s/q-%E3%82%B9%E3%83%BC%E3%83%97%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%BC/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono13420516-251010-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono12342988-221013-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E3%82%B9%E3%83%BC%E3%83%97%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%BC/",
     "imageTitle": "MonotaRO product image: スープウォーマー",
     "imageCredit": "MonotaRO search result"
@@ -564,7 +564,7 @@ window.priceQuizItems = [
     "why": "強いモーターと金属ボウルを備え、家庭用より連続稼働に耐えます。",
     "source": "https://www.monotaro.com/s/q-%E6%A5%AD%E5%8B%99%E7%94%A8%20%E3%83%9F%E3%82%AD%E3%82%B5%E3%83%BC/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono39923687-190402-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono14692223-180419-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E6%A5%AD%E5%8B%99%E7%94%A8%20%E3%83%9F%E3%82%AD%E3%82%B5%E3%83%BC/",
     "imageTitle": "MonotaRO product image: 業務用ミキサー",
     "imageCredit": "MonotaRO search result"
@@ -579,7 +579,7 @@ window.priceQuizItems = [
     "why": "衛生管理のための灯具、棚、ステンレス筐体が必要です。",
     "source": "https://www.monotaro.com/s/q-%E5%8C%85%E4%B8%81%20%E3%81%BE%E3%81%AA%E6%9D%BF%20%E6%AE%BA%E8%8F%8C%E5%BA%AB/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono88747513-140318-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono40244366-190410-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E5%8C%85%E4%B8%81%20%E3%81%BE%E3%81%AA%E6%9D%BF%20%E6%AE%BA%E8%8F%8C%E5%BA%AB/",
     "imageTitle": "MonotaRO product image: 包丁まな板殺菌庫",
     "imageCredit": "MonotaRO search result"
@@ -594,7 +594,7 @@ window.priceQuizItems = [
     "why": "秤量、精度、防水、検定付きかどうかで価格が変わります。",
     "source": "https://www.monotaro.com/s/q-%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%20%E5%8F%B0%E3%81%AF%E3%81%8B%E3%82%8A/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono19242676-160519-04.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono68539177-130919-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%20%E5%8F%B0%E3%81%AF%E3%81%8B%E3%82%8A/",
     "imageTitle": "MonotaRO product image: デジタル台はかり",
     "imageCredit": "MonotaRO search result"
@@ -609,7 +609,7 @@ window.priceQuizItems = [
     "why": "衛生管理用の防水性や応答速度が高いものほど高価になります。",
     "source": "https://www.monotaro.com/s/q-%E4%B8%AD%E5%BF%83%E6%B8%A9%E5%BA%A6%E8%A8%88/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono58254404-201102-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono08550072-210827-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E4%B8%AD%E5%BF%83%E6%B8%A9%E5%BA%A6%E8%A8%88/",
     "imageTitle": "MonotaRO product image: 中心温度計",
     "imageCredit": "MonotaRO search result"
@@ -624,7 +624,7 @@ window.priceQuizItems = [
     "why": "ローラー、切刃、モーターの精度が必要で、小型でも数万円台後半からです。",
     "source": "https://www.monotaro.com/s/q-%E8%A3%BD%E9%BA%BA%E6%A9%9F/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono28875518-230608-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono88751126-140318-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E8%A3%BD%E9%BA%BA%E6%A9%9F/",
     "imageTitle": "MonotaRO product image: 製麺機",
     "imageCredit": "MonotaRO search result"
@@ -637,10 +637,10 @@ window.priceQuizItems = [
     "hint": "厨房や実験室でよく見る銀色の作業台です。",
     "price": "約1万〜6万円",
     "why": "錆びにくく洗いやすいステンレス天板と脚のサイズで価格が決まります。",
-    "source": "https://www.monotaro.com/s/q-%E3%82%B9%E3%83%86%E3%83%B3%E3%83%AC%E3%82%B9%20%E4%BD%9C%E6%A5%AD%E5%8F%B0/",
+    "source": "https://www.monotaro.com/s/q-%E3%82%B9%E3%83%86%E3%83%B3%E3%83%AC%E3%82%B9%E4%BD%9C%E6%A5%AD%E5%8F%B0%20%E5%8E%A8%E6%88%BF/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono09469065-080417-02.jpg",
-    "imagePage": "https://www.monotaro.com/s/q-%E3%82%B9%E3%83%86%E3%83%B3%E3%83%AC%E3%82%B9%20%E4%BD%9C%E6%A5%AD%E5%8F%B0/",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono17038288-150402-02.jpg",
+    "imagePage": "https://www.monotaro.com/s/q-%E3%82%B9%E3%83%86%E3%83%B3%E3%83%AC%E3%82%B9%E4%BD%9C%E6%A5%AD%E5%8F%B0%20%E5%8E%A8%E6%88%BF/",
     "imageTitle": "MonotaRO product image: ステンレス作業台",
     "imageCredit": "MonotaRO search result"
   },
@@ -654,7 +654,7 @@ window.priceQuizItems = [
     "why": "単体は安いですが、同じ規格で大量に積み重ねて使われます。",
     "source": "https://www.monotaro.com/s/q-%E7%95%AA%E9%87%8D%20%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono37129556-160318-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono07190391-050920-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E7%95%AA%E9%87%8D%20%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A/",
     "imageTitle": "MonotaRO product image: 食品コンテナ番重",
     "imageCredit": "MonotaRO search result"
@@ -669,7 +669,7 @@ window.priceQuizItems = [
     "why": "標準型は5万円前後から、低床・高耐荷重タイプは10万円前後になります。",
     "source": "https://www.monotaro.com/s/q-%E3%83%8F%E3%83%B3%E3%83%89%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono53354045-200318-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono07339491-060120-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E3%83%8F%E3%83%B3%E3%83%89%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF/",
     "imageTitle": "MonotaRO product image: ハンドパレットトラック",
     "imageCredit": "MonotaRO search result"
@@ -684,7 +684,7 @@ window.priceQuizItems = [
     "why": "1トン積載クラスでも単体は数千円台。大量に使う備品です。",
     "source": "https://www.monotaro.com/s/q-%E6%A8%B9%E8%84%82%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono86269242-140124-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono08459534-061122-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E6%A8%B9%E8%84%82%20%E3%83%91%E3%83%AC%E3%83%83%E3%83%88/",
     "imageTitle": "MonotaRO product image: 樹脂パレット",
     "imageCredit": "MonotaRO search result"
@@ -699,7 +699,7 @@ window.priceQuizItems = [
     "why": "耐荷重、静音キャスター、ハンドル折りたたみの有無で価格が変わります。",
     "source": "https://www.monotaro.com/s/q-%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB%20%E5%8F%B0%E8%BB%8A/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono07078933-060704-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono17662356-210623-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB%20%E5%8F%B0%E8%BB%8A/",
     "imageTitle": "MonotaRO product image: スチール台車",
     "imageCredit": "MonotaRO search result"
@@ -714,7 +714,7 @@ window.priceQuizItems = [
     "why": "ターンテーブルや制御部があるため、手巻き用フィルムとは桁が違います。",
     "source": "https://www.monotaro.com/s/q-%E3%82%B9%E3%83%88%E3%83%AC%E3%83%83%E3%83%81%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A0%20%E5%8C%85%E8%A3%85%E6%A9%9F/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono02462862-211004-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono41101277-181025-04.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E3%82%B9%E3%83%88%E3%83%AC%E3%83%83%E3%83%81%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A0%20%E5%8C%85%E8%A3%85%E6%A9%9F/",
     "imageTitle": "MonotaRO product image: ストレッチフィルム包装機",
     "imageCredit": "MonotaRO search result"
@@ -729,7 +729,7 @@ window.priceQuizItems = [
     "why": "締め付け、溶着、カットを自動化するため、事務用品ではなく小型機械です。",
     "source": "https://www.monotaro.com/s/q-%E3%83%90%E3%83%B3%E3%83%89%20%E7%B5%90%E6%9D%9F%E6%A9%9F/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono14767333-240201-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono37440767-130129-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E3%83%90%E3%83%B3%E3%83%89%20%E7%B5%90%E6%9D%9F%E6%A9%9F/",
     "imageTitle": "MonotaRO product image: バンド結束機",
     "imageCredit": "MonotaRO search result"
@@ -744,7 +744,7 @@ window.priceQuizItems = [
     "why": "長さ、幅、ローラー材質、脚付きかどうかで価格が変わります。",
     "source": "https://www.monotaro.com/s/q-%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%E3%82%B3%E3%83%B3%E3%83%99%E3%83%A4/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono06376623-211004-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono06377777-211004-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%E3%82%B3%E3%83%B3%E3%83%99%E3%83%A4/",
     "imageTitle": "MonotaRO product image: ローラーコンベヤ",
     "imageCredit": "MonotaRO search result"
@@ -759,7 +759,7 @@ window.priceQuizItems = [
     "why": "耐荷重のある天板と脚、棚や引き出しの有無で価格差が出ます。",
     "source": "https://www.monotaro.com/s/q-%E4%BD%9C%E6%A5%AD%E5%8F%B0%20%E5%B7%A5%E5%A0%B4/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono08691094-070516-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono41168705-120807-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E4%BD%9C%E6%A5%AD%E5%8F%B0%20%E5%B7%A5%E5%A0%B4/",
     "imageTitle": "MonotaRO product image: 物流作業台",
     "imageCredit": "MonotaRO search result"
@@ -774,7 +774,7 @@ window.priceQuizItems = [
     "why": "金属製で耐荷重があり、引き出し付きだと価格が上がります。",
     "source": "https://www.monotaro.com/s/q-%E3%83%84%E3%83%BC%E3%83%AB%E3%83%AF%E3%82%B4%E3%83%B3/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono17794927-150521-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono68076215-131118-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E3%83%84%E3%83%BC%E3%83%AB%E3%83%AF%E3%82%B4%E3%83%B3/",
     "imageTitle": "MonotaRO product image: ツールワゴン",
     "imageCredit": "MonotaRO search result"
@@ -789,7 +789,7 @@ window.priceQuizItems = [
     "why": "1個は安価ですが、店舗や倉庫では何百個単位で使われます。",
     "source": "https://www.monotaro.com/s/q-%E6%8A%98%E3%82%8A%E3%81%9F%E3%81%9F%E3%81%BF%20%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono37600175-160126-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono16713086-190627-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E6%8A%98%E3%82%8A%E3%81%9F%E3%81%9F%E3%81%BF%20%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A/",
     "imageTitle": "MonotaRO product image: 折りたたみコンテナ",
     "imageCredit": "MonotaRO search result"
@@ -804,7 +804,7 @@ window.priceQuizItems = [
     "why": "ラチェット付きや高耐荷重タイプになるほど価格が上がります。",
     "source": "https://www.monotaro.com/s/q-%E8%8D%B7%E7%B7%A0%E3%82%81%20%E3%83%99%E3%83%AB%E3%83%88/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono17481266-150602-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono23991643-160926-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E8%8D%B7%E7%B7%A0%E3%82%81%20%E3%83%99%E3%83%AB%E3%83%88/",
     "imageTitle": "MonotaRO product image: 荷締めベルト",
     "imageCredit": "MonotaRO search result"
@@ -819,7 +819,7 @@ window.priceQuizItems = [
     "why": "印字方式、幅、耐久性、ネットワーク対応で価格が変わります。",
     "source": "https://www.monotaro.com/s/q-%E3%83%A9%E3%83%99%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono72797045-240924-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono61080924-210219-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E3%83%A9%E3%83%99%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC/",
     "imageTitle": "MonotaRO product image: ラベルプリンター",
     "imageCredit": "MonotaRO search result"
@@ -834,7 +834,7 @@ window.priceQuizItems = [
     "why": "秤量が大きく、表示器と台部が分かれる業務用は数万円以上になります。",
     "source": "https://www.monotaro.com/s/q-%E5%8F%B0%E7%A7%A4/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono68539177-130919-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono29031653-191002-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E5%8F%B0%E7%A7%A4/",
     "imageTitle": "MonotaRO product image: 台秤",
     "imageCredit": "MonotaRO search result"
@@ -849,7 +849,7 @@ window.priceQuizItems = [
     "why": "支柱とビームの耐荷重が価格の中心で、列を組むと総額は大きくなります。",
     "source": "https://www.monotaro.com/s/q-%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono07078933-060704-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono16286332-260514-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF/",
     "imageTitle": "MonotaRO product image: パレットラック",
     "imageCredit": "MonotaRO search result"
@@ -864,7 +864,7 @@ window.priceQuizItems = [
     "why": "耐落下性、無線通信、業務アプリ対応でスマホより高い専用品になります。",
     "source": "https://www.monotaro.com/s/q-%E3%83%8F%E3%83%B3%E3%83%87%E3%82%A3%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono82682889-220622-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono15422909-230110-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E3%83%8F%E3%83%B3%E3%83%87%E3%82%A3%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB/",
     "imageTitle": "MonotaRO product image: ハンディターミナル",
     "imageCredit": "MonotaRO search result"
@@ -879,7 +879,7 @@ window.priceQuizItems = [
     "why": "A4を十数枚まとめて細断できる中型機は数万円台が中心です。",
     "source": "https://www.monotaro.com/s/q-%E3%82%B7%E3%83%A5%E3%83%AC%E3%83%83%E3%83%80%E3%83%BC%20%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B9/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono82883168-220629-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono19576078-211221-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E3%82%B7%E3%83%A5%E3%83%AC%E3%83%83%E3%83%80%E3%83%BC%20%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B9/",
     "imageTitle": "MonotaRO product image: オフィスシュレッダー",
     "imageCredit": "MonotaRO search result"
@@ -894,7 +894,7 @@ window.priceQuizItems = [
     "why": "A3対応や高速・連続加工に強い業務用ほど価格が上がります。",
     "source": "https://www.monotaro.com/s/q-%E3%83%A9%E3%83%9F%E3%83%8D%E3%83%BC%E3%82%BF%E3%83%BC/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono54197809-250909-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono54197809-250909-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E3%83%A9%E3%83%9F%E3%83%8D%E3%83%BC%E3%82%BF%E3%83%BC/",
     "imageTitle": "MonotaRO product image: ラミネーター",
     "imageCredit": "MonotaRO search result"
@@ -909,7 +909,7 @@ window.priceQuizItems = [
     "why": "両面タイプ、幅、脚とキャスターの安定性で価格が変わります。",
     "source": "https://www.monotaro.com/s/q-%E8%84%9A%E4%BB%98%E3%81%8D%20%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%9C%E3%83%BC%E3%83%89/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono52578673-191225-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono56406394-170629-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E8%84%9A%E4%BB%98%E3%81%8D%20%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%9C%E3%83%BC%E3%83%89/",
     "imageTitle": "MonotaRO product image: 脚付きホワイトボード",
     "imageCredit": "MonotaRO search result"
@@ -924,7 +924,7 @@ window.priceQuizItems = [
     "why": "吸音性や高さ、連結部材の有無で1枚あたりの価格が変わります。",
     "source": "https://www.monotaro.com/s/q-%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B9%20%E3%83%91%E3%83%BC%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono03906220-220831-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono34732582-100225-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B9%20%E3%83%91%E3%83%BC%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/",
     "imageTitle": "MonotaRO product image: オフィスパーテーション",
     "imageCredit": "MonotaRO search result"
@@ -939,24 +939,24 @@ window.priceQuizItems = [
     "why": "耐火時間、鍵方式、重量で価格が大きく変わります。",
     "source": "https://www.monotaro.com/s/q-%E8%80%90%E7%81%AB%20%E9%87%91%E5%BA%AB/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono09953405-150330-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono37115793-120105-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E8%80%90%E7%81%AB%20%E9%87%91%E5%BA%AB/",
     "imageTitle": "MonotaRO product image: 耐火金庫",
     "imageCredit": "MonotaRO search result"
   },
   {
     "id": "064",
-    "title": "キーボックス",
+    "title": "暗証番号式キーボックス",
     "category": "施設管理",
-    "question": "Q. この「キーボックス」はいくらでしょう？",
-    "hint": "施設や車両の鍵をまとめて保管する壁掛け箱です。",
-    "price": "約5,000〜5万円",
-    "why": "収納本数と鍵管理方式が増えるほど価格が上がります。",
-    "source": "https://www.monotaro.com/s/q-%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9/",
+    "question": "Q. この「暗証番号式キーボックス」はいくらでしょう？",
+    "hint": "施設や物件の鍵を一時保管する小型の暗証番号式ボックスです。",
+    "price": "約3,000〜2万円",
+    "why": "屋外対応、収納本数、ダイヤルやボタンの方式で価格が変わります。",
+    "source": "https://www.monotaro.com/s/q-%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%20%E5%A3%81%E6%8E%9B%E3%81%91/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono00367125-180314-02.jpg",
-    "imagePage": "https://www.monotaro.com/s/q-%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9/",
-    "imageTitle": "MonotaRO product image: キーボックス",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono08000013-200227-02.jpg",
+    "imagePage": "https://www.monotaro.com/s/q-%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%20%E5%A3%81%E6%8E%9B%E3%81%91/",
+    "imageTitle": "MonotaRO product image: 暗証番号式キーボックス",
     "imageCredit": "MonotaRO search result"
   },
   {
@@ -969,7 +969,7 @@ window.priceQuizItems = [
     "why": "カード式からIC対応まであり、勤怠ソフト連携で価格が変わります。",
     "source": "https://www.monotaro.com/s/q-%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%80%E3%83%BC/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono75706463-220222-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono19564853-210204-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%80%E3%83%BC/",
     "imageTitle": "MonotaRO product image: タイムレコーダー",
     "imageCredit": "MonotaRO search result"
@@ -984,7 +984,7 @@ window.priceQuizItems = [
     "why": "サイズ、電動か手動か、天吊り対応の有無で価格差が出ます。",
     "source": "https://www.monotaro.com/s/q-%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%82%BF%E3%83%BC%20%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono48427410-231113-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono76076314-150106-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%82%BF%E3%83%BC%20%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3/",
     "imageTitle": "MonotaRO product image: プロジェクタースクリーン",
     "imageCredit": "MonotaRO search result"
@@ -999,7 +999,7 @@ window.priceQuizItems = [
     "why": "広い部屋向けの風量とフィルター性能が価格に反映されます。",
     "source": "https://www.monotaro.com/s/q-%E6%A5%AD%E5%8B%99%E7%94%A8%20%E7%A9%BA%E6%B0%97%E6%B8%85%E6%B5%84%E6%A9%9F/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono28983625-230609-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono03897175-241004-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E6%A5%AD%E5%8B%99%E7%94%A8%20%E7%A9%BA%E6%B0%97%E6%B8%85%E6%B5%84%E6%A9%9F/",
     "imageTitle": "MonotaRO product image: 業務用空気清浄機",
     "imageCredit": "MonotaRO search result"
@@ -1014,7 +1014,7 @@ window.priceQuizItems = [
     "why": "羽根径、風量、首振り、防塵性で家庭用より高くなります。",
     "source": "https://www.monotaro.com/s/q-%E5%A4%A7%E5%9E%8B%20%E3%82%B5%E3%83%BC%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono53906564-200511-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono76462576-240610-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E5%A4%A7%E5%9E%8B%20%E3%82%B5%E3%83%BC%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC/",
     "imageTitle": "MonotaRO product image: 大型サーキュレーター",
     "imageCredit": "MonotaRO search result"
@@ -1029,7 +1029,7 @@ window.priceQuizItems = [
     "why": "収納本数、鍵付きか、水受け構造で価格が変わります。",
     "source": "https://www.monotaro.com/s/q-%E6%A5%AD%E5%8B%99%E7%94%A8%20%E5%82%98%E7%AB%8B%E3%81%A6/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono60817417-170710-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono46820534-220826-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E6%A5%AD%E5%8B%99%E7%94%A8%20%E5%82%98%E7%AB%8B%E3%81%A6/",
     "imageTitle": "MonotaRO product image: 業務用傘立て",
     "imageCredit": "MonotaRO search result"
@@ -1042,10 +1042,10 @@ window.priceQuizItems = [
     "hint": "マンションやオフィス入口に並ぶ郵便受けです。",
     "price": "約2万〜10万円",
     "why": "戸数、鍵、前入れ後出し構造、防雨性で価格が変わります。",
-    "source": "https://www.monotaro.com/s/q-%E9%9B%86%E5%90%88%20%E3%83%A1%E3%83%BC%E3%83%AB%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9/",
+    "source": "https://www.monotaro.com/s/q-%E9%9B%86%E5%90%88%E9%83%B5%E4%BE%BF%E5%8F%97%E3%81%91/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono32983352-100224-02.jpg",
-    "imagePage": "https://www.monotaro.com/s/q-%E9%9B%86%E5%90%88%20%E3%83%A1%E3%83%BC%E3%83%AB%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9/",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono32983352-100224-02.jpg",
+    "imagePage": "https://www.monotaro.com/s/q-%E9%9B%86%E5%90%88%E9%83%B5%E4%BE%BF%E5%8F%97%E3%81%91/",
     "imageTitle": "MonotaRO product image: 集合メールボックス",
     "imageCredit": "MonotaRO search result"
   },
@@ -1057,10 +1057,10 @@ window.priceQuizItems = [
     "hint": "ホテルや店舗清掃で使う大きめの掃除機です。",
     "price": "約2万〜10万円",
     "why": "吸引力、タンク容量、連続使用に耐えるモーターで家庭用より高めです。",
-    "source": "https://www.monotaro.com/s/q-%E6%A5%AD%E5%8B%99%E7%94%A8%20%E6%8E%83%E9%99%A4%E6%A9%9F/",
+    "source": "https://www.monotaro.com/s/q-%E6%A5%AD%E5%8B%99%E7%94%A8%E6%8E%83%E9%99%A4%E6%A9%9F%20%E4%B9%BE%E5%BC%8F/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono25622670-230425-02.jpg",
-    "imagePage": "https://www.monotaro.com/s/q-%E6%A5%AD%E5%8B%99%E7%94%A8%20%E6%8E%83%E9%99%A4%E6%A9%9F/",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono39901524-190402-02.jpg",
+    "imagePage": "https://www.monotaro.com/s/q-%E6%A5%AD%E5%8B%99%E7%94%A8%E6%8E%83%E9%99%A4%E6%A9%9F%20%E4%B9%BE%E5%BC%8F/",
     "imageTitle": "MonotaRO product image: 業務用掃除機",
     "imageCredit": "MonotaRO search result"
   },
@@ -1072,10 +1072,10 @@ window.priceQuizItems = [
     "hint": "駅や商業施設の床をブラシで洗いながら吸水する機械です。",
     "price": "約20万〜80万円",
     "why": "ブラシ、洗剤タンク、汚水回収機構を持つため清掃用の小型車両に近い価格です。",
-    "source": "https://www.monotaro.com/s/q-%E5%BA%8A%E6%B4%97%E6%B5%84%E6%A9%9F/",
+    "source": "https://www.monotaro.com/s/q-%E8%87%AA%E5%8B%95%E5%BA%8A%E6%B4%97%E6%B5%84%E6%A9%9F/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono28866347-211203-02.jpg",
-    "imagePage": "https://www.monotaro.com/s/q-%E5%BA%8A%E6%B4%97%E6%B5%84%E6%A9%9F/",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono17349614-220815-02.jpg",
+    "imagePage": "https://www.monotaro.com/s/q-%E8%87%AA%E5%8B%95%E5%BA%8A%E6%B4%97%E6%B5%84%E6%A9%9F/",
     "imageTitle": "MonotaRO product image: 床洗浄機",
     "imageCredit": "MonotaRO search result"
   },
@@ -1089,7 +1089,7 @@ window.priceQuizItems = [
     "why": "水圧、耐久性、業務用ポンプの性能で価格が変わります。",
     "source": "https://www.monotaro.com/s/q-%E9%AB%98%E5%9C%A7%E6%B4%97%E6%B5%84%E6%A9%9F%20%E6%A5%AD%E5%8B%99%E7%94%A8/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono86336205-210812-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono53277763-200316-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E9%AB%98%E5%9C%A7%E6%B4%97%E6%B5%84%E6%A9%9F%20%E6%A5%AD%E5%8B%99%E7%94%A8/",
     "imageTitle": "MonotaRO product image: 高圧洗浄機",
     "imageCredit": "MonotaRO search result"
@@ -1102,10 +1102,10 @@ window.priceQuizItems = [
     "hint": "ビル清掃で床を磨く丸いブラシ付き機械です。",
     "price": "約8万〜25万円",
     "why": "大きなモーターとブラシ駆動部があり、清掃会社向けの設備です。",
-    "source": "https://www.monotaro.com/s/q-%E3%83%95%E3%83%AD%E3%82%A2%E3%83%9D%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A3%E3%83%BC/",
+    "source": "https://www.monotaro.com/s/q-%E3%83%95%E3%83%AD%E3%82%A2%E3%83%9D%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A3%E3%83%BC%2012%E3%82%A4%E3%83%B3%E3%83%81/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono57768963-210311-02.jpg",
-    "imagePage": "https://www.monotaro.com/s/q-%E3%83%95%E3%83%AD%E3%82%A2%E3%83%9D%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A3%E3%83%BC/",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono39115456-230228-02.jpg",
+    "imagePage": "https://www.monotaro.com/s/q-%E3%83%95%E3%83%AD%E3%82%A2%E3%83%9D%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A3%E3%83%BC%2012%E3%82%A4%E3%83%B3%E3%83%81/",
     "imageTitle": "MonotaRO product image: フロアポリッシャー",
     "imageCredit": "MonotaRO search result"
   },
@@ -1119,7 +1119,7 @@ window.priceQuizItems = [
     "why": "袋、棚、バケツ置き、静音キャスター付きで、単なる台車より高くなります。",
     "source": "https://www.monotaro.com/s/q-%E6%B8%85%E6%8E%83%20%E3%82%AB%E3%83%BC%E3%83%88/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono19614096-151006-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono12025985-221208-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E6%B8%85%E6%8E%83%20%E3%82%AB%E3%83%BC%E3%83%88/",
     "imageTitle": "MonotaRO product image: 清掃カート",
     "imageCredit": "MonotaRO search result"
@@ -1134,7 +1134,7 @@ window.priceQuizItems = [
     "why": "業務用は水量と耐久性があり、毎日の清掃に耐える作りです。",
     "source": "https://www.monotaro.com/s/q-%E3%83%A2%E3%83%83%E3%83%97%20%E7%B5%9E%E3%82%8A%E5%99%A8/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono55576212-170217-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono63854289-211119-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E3%83%A2%E3%83%83%E3%83%97%20%E7%B5%9E%E3%82%8A%E5%99%A8/",
     "imageTitle": "MonotaRO product image: モップ絞り器",
     "imageCredit": "MonotaRO search result"
@@ -1149,7 +1149,7 @@ window.priceQuizItems = [
     "why": "タンク容量とフィルター、防水性で家庭用とは用途が違います。",
     "source": "https://www.monotaro.com/s/q-%E4%B9%BE%E6%B9%BF%E4%B8%A1%E7%94%A8%20%E6%8E%83%E9%99%A4%E6%A9%9F/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono09512377-130304-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono38278807-111214-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E4%B9%BE%E6%B9%BF%E4%B8%A1%E7%94%A8%20%E6%8E%83%E9%99%A4%E6%A9%9F/",
     "imageTitle": "MonotaRO product image: 乾湿両用掃除機",
     "imageCredit": "MonotaRO search result"
@@ -1164,7 +1164,7 @@ window.priceQuizItems = [
     "why": "風量と耐久性が必要で、清掃・工事現場の道具として数万円します。",
     "source": "https://www.monotaro.com/s/q-%E6%A5%AD%E5%8B%99%E7%94%A8%20%E9%80%81%E9%A2%A8%E6%A9%9F/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono55670134-260422-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono33510558-240612-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E6%A5%AD%E5%8B%99%E7%94%A8%20%E9%80%81%E9%A2%A8%E6%A9%9F/",
     "imageTitle": "MonotaRO product image: 業務用送風機",
     "imageCredit": "MonotaRO search result"
@@ -1179,7 +1179,7 @@ window.priceQuizItems = [
     "why": "ヒーター、圧力容器、連続使用性能で価格が変わります。",
     "source": "https://www.monotaro.com/s/q-%E3%82%B9%E3%83%81%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%8A%E3%83%BC%20%E6%A5%AD%E5%8B%99%E7%94%A8/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono19354387-251010-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono25887532-160720-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E3%82%B9%E3%83%81%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%8A%E3%83%BC%20%E6%A5%AD%E5%8B%99%E7%94%A8/",
     "imageTitle": "MonotaRO product image: スチームクリーナー",
     "imageCredit": "MonotaRO search result"
@@ -1192,10 +1192,10 @@ window.priceQuizItems = [
     "hint": "病院や施設入口で貸し出される標準的な車椅子です。",
     "price": "約2万〜10万円",
     "why": "軽量素材、折りたたみ、ブレーキ、安全性で価格差があります。",
-    "source": "https://www.monotaro.com/s/q-%E8%BB%8A%E6%A4%85%E5%AD%90/",
+    "source": "https://www.monotaro.com/s/q-%E8%87%AA%E8%B5%B0%E5%BC%8F%20%E8%BB%8A%E6%A4%85%E5%AD%90/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono17902736-150528-02.jpg",
-    "imagePage": "https://www.monotaro.com/s/q-%E8%BB%8A%E6%A4%85%E5%AD%90/",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono68988097-240718-02.jpg",
+    "imagePage": "https://www.monotaro.com/s/q-%E8%87%AA%E8%B5%B0%E5%BC%8F%20%E8%BB%8A%E6%A4%85%E5%AD%90/",
     "imageTitle": "MonotaRO product image: 車椅子",
     "imageCredit": "MonotaRO search result"
   },
@@ -1209,7 +1209,7 @@ window.priceQuizItems = [
     "why": "高さ調整、安定した脚、ステンレス素材が基本価格になります。",
     "source": "https://www.monotaro.com/s/q-%E7%82%B9%E6%BB%B4%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono08427554-210315-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono03660256-151001-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E7%82%B9%E6%BB%B4%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89/",
     "imageTitle": "MonotaRO product image: 点滴スタンド",
     "imageCredit": "MonotaRO search result"
@@ -1224,7 +1224,7 @@ window.priceQuizItems = [
     "why": "幅、昇降機能、張地、耐荷重で価格が変わります。",
     "source": "https://www.monotaro.com/s/q-%E8%A8%BA%E5%AF%9F%E5%8F%B0/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono46569688-220303-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono12133388-150304-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E8%A8%BA%E5%AF%9F%E5%8F%B0/",
     "imageTitle": "MonotaRO product image: 診察台",
     "imageCredit": "MonotaRO search result"
@@ -1239,7 +1239,7 @@ window.priceQuizItems = [
     "why": "測定精度、印字、施設運用向けの耐久性で価格差があります。",
     "source": "https://www.monotaro.com/s/q-%E6%A5%AD%E5%8B%99%E7%94%A8%20%E8%A1%80%E5%9C%A7%E8%A8%88/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono60817417-170710-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono12234200-250116-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E6%A5%AD%E5%8B%99%E7%94%A8%20%E8%A1%80%E5%9C%A7%E8%A8%88/",
     "imageTitle": "MonotaRO product image: 業務用血圧計",
     "imageCredit": "MonotaRO search result"
@@ -1254,7 +1254,7 @@ window.priceQuizItems = [
     "why": "引き出し、棚、キャスター、清掃しやすい素材で価格が上がります。",
     "source": "https://www.monotaro.com/s/q-%E5%8C%BB%E7%99%82%E7%94%A8%20%E3%83%AF%E3%82%B4%E3%83%B3/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono34891577-100415-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono28891924-190207-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E5%8C%BB%E7%99%82%E7%94%A8%20%E3%83%AF%E3%82%B4%E3%83%B3/",
     "imageTitle": "MonotaRO product image: 医療用ワゴン",
     "imageCredit": "MonotaRO search result"
@@ -1269,7 +1269,7 @@ window.priceQuizItems = [
     "why": "昇降、柵、ブレーキ、マット、安全機構があり高額になります。",
     "source": "https://www.monotaro.com/s/q-%E3%82%B9%E3%83%88%E3%83%AC%E3%83%83%E3%83%81%E3%83%A3%E3%83%BC/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono24435748-180202-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono41090568-220228-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E3%82%B9%E3%83%88%E3%83%AC%E3%83%83%E3%83%81%E3%83%A3%E3%83%BC/",
     "imageTitle": "MonotaRO product image: ストレッチャー",
     "imageCredit": "MonotaRO search result"
@@ -1284,7 +1284,7 @@ window.priceQuizItems = [
     "why": "壁固定、安全ベルト、耐荷重、清掃性が必要な公共設備です。",
     "source": "https://www.monotaro.com/s/q-%E3%81%8A%E3%82%80%E3%81%A4%20%E4%BA%A4%E6%8F%9B%E5%8F%B0/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono41078948-220301-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono48855573-161222-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E3%81%8A%E3%82%80%E3%81%A4%20%E4%BA%A4%E6%8F%9B%E5%8F%B0/",
     "imageTitle": "MonotaRO product image: おむつ交換台",
     "imageCredit": "MonotaRO search result"
@@ -1299,39 +1299,39 @@ window.priceQuizItems = [
     "why": "安全基準と壁固定部品があり、小さく見えても公共施設向け価格です。",
     "source": "https://www.monotaro.com/s/q-%E3%83%99%E3%83%93%E3%83%BC%E3%82%AD%E3%83%BC%E3%83%97/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono39593845-230410-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono45854237-230928-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E3%83%99%E3%83%93%E3%83%BC%E3%82%AD%E3%83%BC%E3%83%97/",
     "imageTitle": "MonotaRO product image: ベビーキープ",
     "imageCredit": "MonotaRO search result"
   },
   {
     "id": "088",
-    "title": "ムービングライト",
-    "category": "イベント",
-    "question": "Q. この「ムービングライト」はいくらでしょう？",
-    "hint": "ライブハウスや舞台で首を振って動く照明です。",
-    "price": "約5万〜30万円",
-    "why": "モーター、LED、レンズ、DMX制御を備えた舞台機材です。",
-    "source": "https://www.monotaro.com/s/q-%E3%83%A0%E3%83%BC%E3%83%93%E3%83%B3%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%88/",
+    "title": "演台",
+    "category": "イベント・施設",
+    "question": "Q. この「演台」はいくらでしょう？",
+    "hint": "講演会や式典で、話す人が立って資料を置く台です。",
+    "price": "約5万〜20万円",
+    "why": "木製の外装、キャスター、棚、配線穴、サイズで価格が変わります。",
+    "source": "https://www.monotaro.com/s/q-%E6%BC%94%E5%8F%B0/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono71242159-210917-02.jpg",
-    "imagePage": "https://www.monotaro.com/s/q-%E3%83%A0%E3%83%BC%E3%83%93%E3%83%B3%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%88/",
-    "imageTitle": "MonotaRO product image: ムービングライト",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono70467637-250225-02.jpg",
+    "imagePage": "https://www.monotaro.com/s/q-%E6%BC%94%E5%8F%B0/",
+    "imageTitle": "MonotaRO product image: 演台",
     "imageCredit": "MonotaRO search result"
   },
   {
     "id": "089",
-    "title": "LEDパーライト",
+    "title": "ワイヤレスマイクセット",
     "category": "イベント",
-    "question": "Q. この「LEDパーライト」はいくらでしょう？",
-    "hint": "ステージを色付きの光で照らす丸いLED照明です。",
-    "price": "約5,000〜5万円",
-    "why": "小型は安価ですが、明るさやDMX対応で価格が上がります。",
-    "source": "https://www.monotaro.com/s/q-LED%E3%83%91%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%20%E8%88%9E%E5%8F%B0%E7%85%A7%E6%98%8E/",
+    "question": "Q. この「ワイヤレスマイクセット」はいくらでしょう？",
+    "hint": "小規模イベントや説明会で使う、受信機付きの無線マイク一式です。",
+    "price": "約1万〜5万円",
+    "why": "送受信機、マイク本数、周波数方式、収納ケースの有無で価格が変わります。",
+    "source": "https://www.monotaro.com/s/q-%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AC%E3%82%B9%E3%83%9E%E3%82%A4%E3%82%AF%E3%82%BB%E3%83%83%E3%83%88/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono80494507-250408-04.jpg",
-    "imagePage": "https://www.monotaro.com/s/q-LED%E3%83%91%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%20%E8%88%9E%E5%8F%B0%E7%85%A7%E6%98%8E/",
-    "imageTitle": "MonotaRO product image: LEDパーライト",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono53110524-200221-02.jpg",
+    "imagePage": "https://www.monotaro.com/s/q-%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AC%E3%82%B9%E3%83%9E%E3%82%A4%E3%82%AF%E3%82%BB%E3%83%83%E3%83%88/",
+    "imageTitle": "MonotaRO product image: ワイヤレスマイクセット",
     "imageCredit": "MonotaRO search result"
   },
   {
@@ -1344,7 +1344,7 @@ window.priceQuizItems = [
     "why": "耐荷重と安定性が必要で、音響現場では安全部品でもあります。",
     "source": "https://www.monotaro.com/s/q-PA%20%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono76156055-220329-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono18481567-180507-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-PA%20%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89/",
     "imageTitle": "MonotaRO product image: スピーカースタンド",
     "imageCredit": "MonotaRO search result"
@@ -1359,24 +1359,24 @@ window.priceQuizItems = [
     "why": "アンプ、スピーカー、入力端子、バッテリー対応で価格が変わります。",
     "source": "https://www.monotaro.com/s/q-%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB%20PA%20%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono52308446-191219-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono46878564-190920-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB%20PA%20%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/",
     "imageTitle": "MonotaRO product image: ポータブルPAシステム",
     "imageCredit": "MonotaRO search result"
   },
   {
     "id": "092",
-    "title": "折りたたみステージ",
+    "title": "ポータブルステージ",
     "category": "イベント・施設",
-    "question": "Q. この「折りたたみステージ」はいくらでしょう？",
+    "question": "Q. この「ポータブルステージ」はいくらでしょう？",
     "hint": "体育館やイベント会場で組み立てる簡易ステージです。",
     "price": "約20万〜80万円",
     "why": "人が乗るため耐荷重と連結構造が必要で、家具より設備に近い価格です。",
-    "source": "https://www.monotaro.com/s/q-%E6%8A%98%E3%82%8A%E3%81%9F%E3%81%9F%E3%81%BF%20%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8/",
+    "source": "https://www.monotaro.com/s/q-%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono61082193-170710-02.jpg",
-    "imagePage": "https://www.monotaro.com/s/q-%E6%8A%98%E3%82%8A%E3%81%9F%E3%81%9F%E3%81%BF%20%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8/",
-    "imageTitle": "MonotaRO product image: 折りたたみステージ",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono35086023-190204-04.jpg",
+    "imagePage": "https://www.monotaro.com/s/q-%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8/",
+    "imageTitle": "MonotaRO product image: ポータブルステージ",
     "imageCredit": "MonotaRO search result"
   },
   {
@@ -1389,7 +1389,7 @@ window.priceQuizItems = [
     "why": "サイズ、フレーム強度、防炎生地で価格が変わります。",
     "source": "https://www.monotaro.com/s/q-%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%20%E3%83%86%E3%83%B3%E3%83%88/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono58001064-170407-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono21440658-160210-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%20%E3%83%86%E3%83%B3%E3%83%88/",
     "imageTitle": "MonotaRO product image: イベントテント",
     "imageCredit": "MonotaRO search result"
@@ -1404,7 +1404,7 @@ window.priceQuizItems = [
     "why": "1脚は安価でも、施設では数十脚単位でそろえます。",
     "source": "https://www.monotaro.com/s/q-%E3%83%91%E3%82%A4%E3%83%97%E6%A4%85%E5%AD%90/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono40357177-230228-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono75162299-251017-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E3%83%91%E3%82%A4%E3%83%97%E6%A4%85%E5%AD%90/",
     "imageTitle": "MonotaRO product image: パイプ椅子",
     "imageCredit": "MonotaRO search result"
@@ -1419,7 +1419,7 @@ window.priceQuizItems = [
     "why": "天板サイズ、脚の強度、軽量性で価格が変わります。",
     "source": "https://www.monotaro.com/s/q-%E6%8A%98%E3%82%8A%E3%81%9F%E3%81%9F%E3%81%BF%20%E9%95%B7%E6%9C%BA/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono56672412-170626-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono74108466-191002-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E6%8A%98%E3%82%8A%E3%81%9F%E3%81%9F%E3%81%BF%20%E9%95%B7%E6%9C%BA/",
     "imageTitle": "MonotaRO product image: 長机",
     "imageCredit": "MonotaRO search result"
@@ -1434,7 +1434,7 @@ window.priceQuizItems = [
     "why": "本体は比較的安価ですが、交換期限や点検管理が運用コストになります。",
     "source": "https://www.monotaro.com/s/q-10%E5%9E%8B%20%E6%B6%88%E7%81%AB%E5%99%A8/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono54946798-200728-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono63153345-210222-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-10%E5%9E%8B%20%E6%B6%88%E7%81%AB%E5%99%A8/",
     "imageTitle": "MonotaRO product image: 10型消火器",
     "imageCredit": "MonotaRO search result"
@@ -1449,7 +1449,7 @@ window.priceQuizItems = [
     "why": "屋外用やステンレス製、表示板付きになると価格が上がります。",
     "source": "https://www.monotaro.com/s/q-%E6%B6%88%E7%81%AB%E5%99%A8%20%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono26301486-181129-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono45058308-161011-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E6%B6%88%E7%81%AB%E5%99%A8%20%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9/",
     "imageTitle": "MonotaRO product image: 消火器ボックス",
     "imageCredit": "MonotaRO search result"
@@ -1464,7 +1464,7 @@ window.priceQuizItems = [
     "why": "屋外耐候性と施錠、防錆性が必要で物置より防災用品寄りの価格になります。",
     "source": "https://www.monotaro.com/s/q-%E9%98%B2%E7%81%BD%20%E5%80%89%E5%BA%AB/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono69522583-171020-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono35631136-201016-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E9%98%B2%E7%81%BD%20%E5%80%89%E5%BA%AB/",
     "imageTitle": "MonotaRO product image: 防災備蓄倉庫",
     "imageCredit": "MonotaRO search result"
@@ -1479,7 +1479,7 @@ window.priceQuizItems = [
     "why": "出力、燃料方式、インバーター制御、防音性で大きく価格が変わります。",
     "source": "https://www.monotaro.com/s/q-%E9%9D%9E%E5%B8%B8%E7%94%A8%20%E7%99%BA%E9%9B%BB%E6%A9%9F/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono55618535-170221-02.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono35112323-100715-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E9%9D%9E%E5%B8%B8%E7%94%A8%20%E7%99%BA%E9%9B%BB%E6%A9%9F/",
     "imageTitle": "MonotaRO product image: 非常用発電機",
     "imageCredit": "MonotaRO search result"
@@ -1494,7 +1494,7 @@ window.priceQuizItems = [
     "why": "吐出量、揚程、汚水対応、防水モーターの仕様で価格が変わります。",
     "source": "https://www.monotaro.com/s/q-%E6%8E%92%E6%B0%B4%20%E3%83%9D%E3%83%B3%E3%83%97/",
     "sourceLabel": "MonotaRO検索",
-    "image": "https://jp.images-monotaro.com/Monotaro3/pi/thum/mono02153234-1.jpg",
+    "image": "https://jp.images-monotaro.com/Monotaro3/pi/full/mono05827193-090126-02.jpg",
     "imagePage": "https://www.monotaro.com/s/q-%E6%8E%92%E6%B0%B4%20%E3%83%9D%E3%83%B3%E3%83%97/",
     "imageTitle": "MonotaRO product image: 排水ポンプ",
     "imageCredit": "MonotaRO search result"
